@@ -5,8 +5,6 @@
 #
 # What is the 10 001st prime number?
 
-import time
-
 n = 10001
 
 primeCount = 0	
